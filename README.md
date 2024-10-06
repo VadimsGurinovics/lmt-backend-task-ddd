@@ -51,6 +51,7 @@ To set up and run this project locally, follow the steps below:
 For easier manual testing, a Postman collection has been included in the repository. 
 You can import this collection into Postman and use it to test the available API endpoints.
 Just want to mention that this Postman collection was created more for first Design without DDD(Domain-Driven Design).
+![Alt text](https://i.ibb.co/BPQ4DRG/Postman-LMT-collection.png)
 ```bash
 LMT-task.postman_collection.json
 ```
